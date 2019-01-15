@@ -1,0 +1,19 @@
+#story {
+  display: none;
+}
+
+#letter {
+  display: none;
+}
+
+.btn {
+  border: 2px solid blue;
+  background-color: beige;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#yourname {
+  border: 2px solid blue;
+  background-color: beige;
+}
